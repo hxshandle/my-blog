@@ -79,6 +79,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
+#theme: pacman
 theme: yilia
 exclude_generator:
 
