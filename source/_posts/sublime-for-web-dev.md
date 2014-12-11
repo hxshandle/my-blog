@@ -9,6 +9,7 @@ tags:
 
 虽然Sublime Text一直都不是我的主开发编辑器（我的主编辑器是VIM），但是这并不妨碍我对它的喜欢，甚至有时候我会突然离开VIM转到ST上开发某些程序，主要原因是ST可以__非常快速的进行配置已满足不同的开发环境需求__，虽然VIM也可以，但是5年下来我的TMUX+VIM开发环境快捷键已经不够用了，修改起来也慢，对于一些实验性质的开发我都懒的去配置了。
 
+<!-- more -->
 ### 丰富的插件
 
 Sublime Text拥有非常丰富的插件库，而这些库都可以直接通过Sublime Text的Package Control进行安装，这在编辑器领域可以说是一个非常大的优势，这些库基本上可以满足现在所有的软件开发需求。
@@ -37,23 +38,23 @@ Sublime Text另外一个非常吸引人的地方是的它的配置，它抛弃�
 
 ``` 
 {
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-	"draw_white_space": "all",
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"templates_c",
-		"generated"
-	],
-	"font_size": 12,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+  "color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+  "draw_white_space": "all",
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "templates_c",
+    "generated"
+  ],
+  "font_size": 12,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
 }
 ```
