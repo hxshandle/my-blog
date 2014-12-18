@@ -29,7 +29,7 @@ avatar: "https://avatars3.githubusercontent.com/u/1249471?v=3&s=460"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称
-duoshuo: false
+duoshuo: true
 #是否开启云标签
 tagcloud: true
 
