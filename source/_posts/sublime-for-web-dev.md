@@ -33,6 +33,8 @@ Sublime Text另外一个非常吸引人的地方是的它的配置，它抛弃�
 4. JSLint
 5. AlignTab
 6. j​Query
+7. compare side-by-side
+8. docBlockr
 
 ### 用户配置文件
 
